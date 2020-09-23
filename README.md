@@ -1,1 +1,4 @@
 # EkoBlueSpace
+## Correlacionando datos de detecciones para aportar más valor a los procesos de inteligencia de amenazas
+Cómo parte del proceso de investigación de amenazas que estás realizando, de repente te encuentras con un archivo que parece ser sospechoso y cuando buscas su hash en VT te encuentras con que lo detectan por lo menos 60 soluciones de seguridad, pero el nombre de la detección es Win32/Agent.BYFH ¿con que otra amenaza está relacionado este archivo? ¿acaso se trata de una nueva amenaza? ¿Cómo encaja en el proceso de hunting que estás haciendo? 
+Si este problema te resulta conocido, con este workshop espero darte ideas para tratar de resolver estas preguntas usando la teoría de grafos y valiéndonos del concepto de distancia para obtener un modelo utilizando Python que nos aporte más información en los procesos de investigación de amenazas. 
